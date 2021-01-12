@@ -1,0 +1,20 @@
+{
+  "name": "stand-game",
+  "description": "Simple Stand Game",
+  "version": "1.0.0",
+  "main": "public/index.html",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel public/index.html --open",
+    "build": "parcel build public/index.html"
+  },
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-spring": "9.0.0-beta.3",
+    "react-use-gesture": "5.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
