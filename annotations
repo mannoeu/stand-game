@@ -1,0 +1,28 @@
+# Cálculo
+
+Receberá as entradas: [dia]-[mes]-[ano] de nascimento
+
+-> Somar: dia + mes + ano
+-> Somar os algarismos do resultado da primeira soma
+-> Caso o resultado seja maior que 22, somar os algarismos do resultado da segunda soma
+
+
+Exemplo:
+
+## Entrada
+Dia = 29
+Mês = 04
+Ano = 1998
+
+~> 29 + 4 + 1998 = 2031
+
+## Segunda soma
+2 + 0 + 3 + 1
+
+~> 6
+
+O resultado corresponderá ao id da carta do Tarot e as informações do stand.
+
+Links:
+- https://www.genkidama.com.br/gyabbo/2012/06/23/guest-post-jojos-bizarre-adventure/2/
+- https://aminoapps.com/c/jojo-br/page/blog/como-saber-sua-carta-do-tarot/NqWP_KbSMux1GMbXY15xp1jb4GM5rkgjL

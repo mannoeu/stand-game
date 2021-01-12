@@ -1,0 +1,268 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "card_name": "O Mago",
+      "card_img": "images/cards/01.jpg",
+      "stand": {
+        "name": "Magician’s Red",
+        "user": "Mohamed Abdul",
+        "resume": "Um Stand de puro ataque, se manifesta com uma figura humanóide com cabeça de águia. Baseia-se na manipulação de fogo e acompanha Abdul desde a sua infância. Magician’s Red aparentemente não possui personalidade, funcionando realmente apenas com o desejo de Abdul. Além dos ataques diretos baseado em fogo, o Magician’s Red também funciona como um radar de calor.",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 2,
+      "card_name": "Sacersotisa",
+      "card_img": "images/cards/02.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 3,
+      "card_name": "Imperatriz",
+      "card_img": "images/cards/03.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 4,
+      "card_name": "Imperador",
+      "card_img": "images/cards/04.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 5,
+      "card_name": "Hierofante",
+      "card_img": "images/cards/05.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 6,
+      "card_name": "Enamorados",
+      "card_img": "images/cards/06.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 7,
+      "card_name": "O Carro",
+      "card_img": "images/cards/07.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 8,
+      "card_name": "A Justiça",
+      "card_img": "images/cards/08.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 9,
+      "card_name": "O Eremita",
+      "card_img": "images/cards/09.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 10,
+      "card_name": "Roda da Fortuna",
+      "card_img": "images/cards/10.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 11,
+      "card_name": "A Força",
+      "card_img": "images/cards/11.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 12,
+      "card_name": "O Enforcado",
+      "card_img": "images/cards/12.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 13,
+      "card_name": "A Morte",
+      "card_img": "images/cards/13.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 14,
+      "card_name": "A Temperança",
+      "card_img": "images/cards/14.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 15,
+      "card_name": "O Diabo",
+      "card_img": "images/cards/15.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 16,
+      "card_name": "A Torre",
+      "card_img": "images/cards/16.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 17,
+      "card_name": "A Estrela",
+      "card_img": "images/cards/17.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 18,
+      "card_name": "A Lua",
+      "card_img": "images/cards/18.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 19,
+      "card_name": "O Sol",
+      "card_img": "images/cards/19.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 20,
+      "card_name": "O Julgamento",
+      "card_img": "images/cards/20.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 21,
+      "card_name": "O Mundo",
+      "card_img": "images/cards/21.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    },
+    {
+      "id": 22,
+      "card_name": "O Idiota",
+      "card_img": "images/cards/22.jpg",
+      "stand": {
+        "name": "",
+        "user": "",
+        "resume": "",
+        "user_photo": "",
+        "stand_photo": ""
+      }
+    }
+  ]
+}
