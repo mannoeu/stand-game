@@ -14,12 +14,12 @@
     },
     {
       "id": 2,
-      "card_name": "Sacersotisa",
+      "card_name": "A Alta Sacerdotisa",
       "card_img": "images/cards/02.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The High Priestess",
+        "user": "Midler",
+        "resume": "Um stand ligado aos minerais, com aparência de uma criatura pequena e com uma máscara tribal e olhos perversos. É extremamente ágil, resistente e com garras perigosas. Consegue se transformar em qualquer coisa inorgânica. Consegue também replicar estruturas complexas em sua transformação. Apesar de seu pequeno tamanho, consegue se transformar em coisas gigantescas.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -29,9 +29,9 @@
       "card_name": "Imperatriz",
       "card_img": "images/cards/03.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The Empress",
+        "user": "Nena",
+        "resume": "Um stand que se liga ao sangue de seu usuário. É ativado uma vez que a gota de sangue do usuário atinge uma pessoa, tornando a verdadeira forma de The Empress inicialmente como uma pequena verruga em seu oponente que incha e cresce até que desenvolve características humanóides. Quando alcança a forma humanóide, The Empress tenta matar seu hospedeiro e Nena poderá usar o corpo oco da vítima como disfarce e se esconder dentro dele.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -41,9 +41,9 @@
       "card_name": "Imperador",
       "card_img": "images/cards/04.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The Emperor",
+        "user": "Hol Horse",
+        "resume": "Se manifesta como um revólver na mão direita de seu usuário. Permitindo disparar balas infinitamente e que podem ser controladas após o disparo.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -53,21 +53,21 @@
       "card_name": "Hierofante",
       "card_img": "images/cards/05.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Hierophant Green",
+        "user": "Noriaki Kakyoin",
+        "resume": "Com uma forma humana que se assemelha com um robô e com várias partes na cor verde, o Hierophant Green consegue se desfazer formando líquidos e bolo de fitas para ataques a longa distância. Consegue se estender por terrenos e grandes espaços para mapear e localizar coisas, além de conseguir controlar pessoas como marionetes.",
         "user_photo": "",
         "stand_photo": ""
       }
     },
     {
       "id": 6,
-      "card_name": "Enamorados",
+      "card_name": "Os Amantes",
       "card_img": "images/cards/06.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The Lovers",
+        "user": "Steely Dan",
+        "resume": "Se manifesta como um inseto microscópico com pinças similares a de um siri. Consegue se instalar no cérebro da vítima atingindo seu sistema nervoso central, repassando qualquer dor que seu usuário sinta para sua vítima. Além disso, The Lovers consegue utilizar células mortas da vítima para se replicar e caso uma réplica seja destruída ela é dividida em duas novas réplicas.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -77,9 +77,9 @@
       "card_name": "O Carro",
       "card_img": "images/cards/07.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Silver Chariot",
+        "user": "Jean Pierre Polnareff",
+        "resume": "Com forma de um robô humanóide trajando uma armadura, possui ataques diretos, extremamente rápidos e precisos com seu florete em punho. Consegue se desfazer de sua armadura pesada para ganhar mais velocidade e precisão, ficando mais frágil contudo. Também consegue lançar seu florete em uma certa direção com muita precisão.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -89,9 +89,9 @@
       "card_name": "A Justiça",
       "card_img": "images/cards/08.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Justice",
+        "user": "Enya Geil",
+        "resume": "Se manifesta como uma densa neblina pelo ar, podendo se materializar como uma caveira com coroa. Consegue criar um buraco no local de algum ferimento de um oponente, conseguindo controle total sobre a parte do corpo onde o buraco foi criado, além de gerar ilusões solidificando a neblina e ser inalvejável e inatingível não podendo ser atacado diretamente.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -101,9 +101,9 @@
       "card_name": "O Eremita",
       "card_img": "images/cards/09.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Hermit Purple",
+        "user": "Joseph Joestar",
+        "resume": "Se manifesta pelo uso como várias vinhas cheias de espinhos na cor roxa, que geralmente se espalha pela mão direita de Joseph. Com habilidades psíquicas, permite visão remota, transferida para câmeras, televisões ou mesmo no chão empoeirado, formando figuras de pessoas ou coisas que estão extremamente distantes. Combinado com o Hamon, o Hermit Purple pode ser usado para saltos e habilidades.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -113,9 +113,9 @@
       "card_name": "Roda da Fortuna",
       "card_img": "images/cards/10.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Wheel of Fortune",
+        "user": "ZZ",
+        "resume": "Se manifesta em formato de um carro porém sua aparência pode mudar drasticamente de acordo com a vontade do seu portador. Consegue melhorar a aparência e capacidade de qualquer veículo, além de permitir que este consiga se contorcer e distorcer para adentrar lugares difíceis. Wheel of Fortune também pode atirar de força precisa e concentrada sua própria gasolina em seus oponentes, facilitando a combustão, além de conseguir sequestrar rádios de carros próximos para comunicação.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -125,9 +125,9 @@
       "card_name": "A Força",
       "card_img": "images/cards/11.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Strength",
+        "user": "Forever",
+        "resume": "Um stand que se liga a outros objetos e então se transforma nele, conseguindo controlar qualquer objeto inanimado.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -137,9 +137,9 @@
       "card_name": "O Enforcado",
       "card_img": "images/cards/12.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The Hanged Man",
+        "user": "J. Geil",
+        "resume": "Se manifesta como luz em superfícies reflexivas e possui aparência de múmia. Consegue se mover entre superfícies reflexivas atacando o reflexo da vítima para lhe causar dano real.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -149,9 +149,9 @@
       "card_name": "A Morte",
       "card_img": "images/cards/13.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Death 13",
+        "user": "Mannish Boy",
+        "resume": "Se manifesta como uma aparição da Morte, com uma enorme foice e máscara de palhaço. Consegue se manifestar nos sonhos de suas vítimas e controlá-los. Sempre que alguém dorme perto do seu usuário, essa pessoa é levada ao parque de diversões no mundo do Death 13. Todo dano causado em sonho reflete de forma real em seu oponente, incluindo a morte. Caso acorde, a vítima não terá lembranças do ocorrido.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -161,9 +161,9 @@
       "card_name": "A Temperança",
       "card_img": "images/cards/14.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Yellow Temperance",
+        "user": "Rubber Soul",
+        "resume": "Se manifesta como uma bola de carne amarela e amorfa que cobre o corpo de seu usuário. Não possui boca ou quaisquer feições físicas. Consegue absorver e assimilar a carne de outros seres como animais e plantas para aumentar seu próprio tamanho. Consegue sustentar todo e qualquer dano e não possui fraquezas. O seu usuário pode usar a massa de carne como um disfarce perfeito imitando a aparência de qualquer pessoa.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -173,9 +173,9 @@
       "card_name": "O Diabo",
       "card_img": "images/cards/15.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Ebony Devil",
+        "user": "Devo",
+        "resume": "Um stand de dupla aparência. Seus poderes são ativados quando seu usuário é ferido por um inimigo, tornando-se mais forte baseado na quantidade de ódio que foi depositada no ataque recebido. Com o ódio absorvido, ele pode atacar seu oponente.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -185,9 +185,9 @@
       "card_name": "A Torre",
       "card_img": "images/cards/16.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Tower of Gray",
+        "user": "Gray Fly",
+        "resume": "Tower of Gray se manifesta como um enorme besouro, sendo remotamente controlado por seu usuário. Consegue arrancar a língua de seu oponente e tem uma fixação em causar incêndios, acidentes de avião e acidentes de trem. Possui super velocidade e consegue atacar múltiplos alvos simultâneamente com seu ferrão poderoso, atravessando a cabeça de uma pessoa facilmente.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -197,9 +197,9 @@
       "card_name": "A Estrela",
       "card_img": "images/cards/17.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Star Platinum",
+        "user": "Jotaro Kujo",
+        "resume": "Manifesta-se em uma forma humana que se assemelha a de um guerreiro asteca. Sem muita personalidade porém violento. Possui super força, além de ser extremamente rápido e preciso e conseguir estender seus dedos para acertar inimigos que estejam mais distantes. Também desenvolve poderes de parar o tempo por alguns segundos.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -209,9 +209,9 @@
       "card_name": "A Lua",
       "card_img": "images/cards/18.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Dark Blue Moon",
+        "user": "Falso Capitão Tenille",
+        "resume": "Se manifesta como um Tritão, é um stand marinho com alto potencial destrutivo em ambiente aquático. Consegue gerar turbilhões na água e desferir escamas afiadas além de controlar criaturas marinhas e permitir que seu usuário fique longos períodos submerso em apnéia.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -221,9 +221,9 @@
       "card_name": "O Sol",
       "card_img": "images/cards/19.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The Sun",
+        "user": "Arabia Fats",
+        "resume": "Um stand automático que assume a forma do sol. Consegue gerar luz suficiente para iluminar qualquer ambiente além de um calor insuportável que aumenta com a distância entre ele e o oponente. Porém o calor também afeta seu usuário. Além disso, qualquer ataque contra The Sun é revidado com rasios lases com bastante precisão.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -233,9 +233,9 @@
       "card_name": "O Julgamento",
       "card_img": "images/cards/20.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "Judgment",
+        "user": "Cameo",
+        "resume": "Se manifesta como um robô humanóide. Consegue esculpir falsificações de sujeira e concede os desejos de sua vítima, conseguindo criar toda e qualquer coisa pedida.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -245,9 +245,9 @@
       "card_name": "O Mundo",
       "card_img": "images/cards/21.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The World",
+        "user": "Dio",
+        "resume": "Com um poder descomunal, possui extrema precisão e velocidade. Consegue parar o tempo por alguns segundos e se movimentar livremente durante o feito até que o tempo volte a correr normalmente.",
         "user_photo": "",
         "stand_photo": ""
       }
@@ -257,9 +257,9 @@
       "card_name": "O Idiota",
       "card_img": "images/cards/22.jpg",
       "stand": {
-        "name": "",
-        "user": "",
-        "resume": "",
+        "name": "The Fool",
+        "user": "Iggy",
+        "resume": "Um amontoado de pó que se assemelha a um monstro, consegue mudar sua forma como bem quiser e possui uma enorme força física além de ser extremamente rápido.",
         "user_photo": "",
         "stand_photo": ""
       }
